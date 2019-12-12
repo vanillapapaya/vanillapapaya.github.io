@@ -1,0 +1,76 @@
+#-------------------------------
+# General Site Settings
+
+menu:
+- {name: 'Projects', url: ''}
+- {name: 'Blog', url: 'pages/code.html'}
+- {name: 'Diary', url: 'pages/diary.html'}
+- {name: 'About', url: 'pages/about.html'}
+#- {name: 'Contact', url: 'pages/contact.html'}
+
+#-------------------------------
+# SEO Section
+
+# NOTE: Providing SEO information will make this website more searchable on the internet.
+
+seo:
+  description: 'Personal portfolio powered by Jekyll and GitHub Pages '
+  rel-author: 'https://plus.google.com/u/0/#'
+  rel-publisher: 'https://plus.google.com/u/0/#'
+
+#-------------------------------
+# Google Analytics Section
+
+# Analytics helps you understand who visits your website.
+# Learn more at: http://support.google.com/analytics/answer/1008065
+
+# NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
+
+# If you are not using Google Analytics, please change 'google-ID' to an empty string
+google-analytics-ua: ''
+
+#-------------------------------
+# Disqus Section
+
+# Change to true for Disqus comments
+disqus:
+  comments: false
+  disqus_shortname: 'Vanillapapaya'
+
+#-------------------------------
+# About Section
+
+about: |+
+
+  채승호
+
+  1994년 출생
+
+  경력 없음
+
+  [vanillapapaya@naver.com](mailto:vanillapapaya@naver.com)
+
+
+#contact: >
+  # Contact
+  
+#  [ilovedebug@naver.com](mailto:ilovedebug@naver.com)
+
+
+#-------------------------------
+# Work Section
+
+projects:
+- {name: '남은 시간', folder: 'proj-1', file: 'projects/clock.html'}
+
+#-------------------------------
+# Contact Section
+
+social:
+#- {icon: 'twitter', link: '#'}
+- {icon: 'instagram', link: 'https://www.instagram.com/vanillapapaya'}
+- {icon: 'github', link: 'https://github.com/vanillapapaya'}
+#- {icon: 'linkedin', link: '#'}
+#- {icon: 'envelope', link: 'mailto:ilovedebug@naver.com'}
+
+# social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
