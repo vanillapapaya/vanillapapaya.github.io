@@ -11,7 +11,7 @@ $(function() {
 	$('textarea').autosize();
 });
 
-// smoothScroll function is applied from the document ready function
+// smoothScroll function is applied from the documen ready function
 function smoothScroll (duration) {
 	$('a[href^="#"]').on('click', function(event) {
 
