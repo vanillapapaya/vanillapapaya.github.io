@@ -62,7 +62,7 @@ about: |+
 
 projects:
 - {name: '라면 시장 분석 및 시각화', folder: 'proj-ramen', file: 'projects/ramen.html'}
-- {name: '코로나바이라스 대시보드', folder: 'proj-covvid', file: 'projects/covid.html'}
+- {name: '코로나바이라스 대시보드', folder: 'proj-covid', file: 'projects/covid.html'}
 
 #-------------------------------
 # Contact Section
