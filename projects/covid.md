@@ -3,28 +3,9 @@ layout: post
 title: '나에게 남은 시간'
 ---
 
-대학교 1학년 때, 제 인생의 로드맵을 그려보는 수업을 수강한 적이 있습니다.
 
-나는 지금까지 어떻게 살아왔고, 앞으로 나는 어떻게 살 것인지 생각해본 후,  
-이를 10년 단위로 나누어 표에 그려보는 수업이었습니다.
+[![ ](https://public.tableau.com/static/images/FG/FGHD29RZM/1_rss.png)](#)
 
-그 때에는 굉장히 패기있는 꿈을 적었던 기억이 납니다. 30살의 저는 훌륭한 회사에 입사하고  
-이미 몇 개의 프로젝트를 성공적으로 마쳤을 거라고 적었거든요.
+  
 
-지금 저는 30살이 얼마 안 남았습니다. 그 사이에 저는 가치관도, 꿈도 많이 바뀌었지만,  
-적어도 30살이 딱 되었을 때 무언가 이루고 싶다는 생각은 변함이 없어요.
-
-저는 30살이 되기까지 남은 시간을 좀 더 구체적으로 확인하고 싶어졌습니다.  
-저에게 남은 시간이 얼마인지 시간 단위로 확인하게 된다면,  
-그 시간을 좀 더 알뜰하게 사용할 수 있다는 생각이 들었거든요.  
-
-추가적으로 식사 시간이나 수면 시간같은 저의 생활 습관을 기록하게 된다면,  
- 좀 더 현실적으로 남은 시간을 확인할 수 있겠네요.  
-
-이 프로젝트는 저의 성찰을 위한 프로젝트임과 동시에  
-제가 학교나 다른 캠프에서 벗어나서 개인적으로 내딛은 첫 발걸음이기도 합니다.  
-
-이 프로젝트가 꿈을 이루기 위해 열심히 노력하고 있는 여러분에게도  
-조금이나마 도움이 되었으면 좋겠습니다.
-
-{% include image.html url="http://vanillapapaya.github.io" image="projects/proj-1/thumb.jpg" %}
+var divElement = document.getElementById('viz1586850877772'); var vizElement = divElement.getElementsByTagName('object')\[0\]; if ( divElement.offsetWidth > 800 ) { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth\*0.75)+'px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth\*0.75)+'px';} else { vizElement.style.width='100%';vizElement.style.height='1850px';} var scriptElement = document.createElement('script'); scriptElement.src = 'https://public.tableau.com/javascripts/api/viz\_v1.js'; vizElement.parentNode.insertBefore(scriptElement, vizElement);
