@@ -3,8 +3,8 @@
 
 menu:
 - {name: 'Projects', url: ''}
-- {name: 'Blog', url: 'pages/code.html'}
-- {name: 'Diary', url: 'pages/diary.html'}
+#- {name: 'Blog', url: 'pages/code.html'}
+#- {name: 'Diary', url: 'pages/diary.html'}
 - {name: 'About', url: 'pages/about.html'}
 #- {name: 'Contact', url: 'pages/contact.html'}
 
@@ -61,7 +61,8 @@ about: |+
 # Work Section
 
 projects:
-- {name: '남은 시간', folder: 'proj-1', file: 'projects/clock.html'}
+- {name: '라면 시장 분석 및 시각화', folder: 'proj-ramen', file: 'projects/ramen.html'}
+- {name: '코로나바이라스 대시보드', folder: 'proj-covvid', file: 'projects/covid.html'}
 
 #-------------------------------
 # Contact Section
