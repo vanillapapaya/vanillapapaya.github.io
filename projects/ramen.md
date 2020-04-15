@@ -16,7 +16,7 @@ Tools Used : Pandas, Seaborn in Python, Microsoft Excel, Microsoft Powerpoint
    
 그리고 특정 채널에서 운영중인 제품을 조사하여, 선택한 제조사의 매출 상승을 위해 필요한 요소를 분석했습니다.   
    
-라면 시장 분석 보고서 pdf 파일 : [다운로드][pdflink]
+라면 시장 분석 보고서 pdf 파일 [다운로드][pdflink]
    
 ![Alt text](projects/proj-ramen/Ramen_Market_Analysis_vanillapapaya.슬라이드3.jpg.)   
    
