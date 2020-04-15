@@ -1,9 +1,10 @@
 ---
 layout: post
-title: '라면 시장 분석'
+title: '라면 시장 분석'   
 ---
    
    
+
 Tools Used : Pandas, Seaborn in Python, Microsoft Excel, Microsoft Powerpoint   
    
 
