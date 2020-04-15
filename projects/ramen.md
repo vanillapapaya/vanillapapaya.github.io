@@ -3,7 +3,7 @@ layout: post
 title: '라면 시장 분석'
 ---
    
-   
+
 Tools Used : Pandas, Seaborn in Python, Microsoft Excel, Microsoft Powerpoint   
    
 
@@ -19,11 +19,11 @@ Tools Used : Pandas, Seaborn in Python, Microsoft Excel, Microsoft Powerpoint
    
 라면 시장 분석 보고서 pdf 파일 [다운로드][pdflink]
    
-![슬라이드1](http://vanillapapaya.github.io/assets/img/projects/proj-ramen/Ramen_Market_Analysis_vanillapapaya.슬라이드3.jpg.)   
+![슬라이드1](http://vanillapapaya.github.io/assets/img/projects/proj-ramen/Ramen_Market_Analysis_vanillapapaya/슬라이드3.jpg.)   
    
-![슬라이드9](http://vanillapapaya.github.io/assets/img/projects/proj-ramen/Ramen_Market_Analysis_vanillapapaya.슬라이드9.jpg.)
+![슬라이드9](http://vanillapapaya.github.io/assets/img/projects/proj-ramen/Ramen_Market_Analysis_vanillapapaya/슬라이드9.jpg.)
    
-![슬라이드20](http://vanillapapaya.github.io/assets/img/projects/proj-ramen/Ramen_Market_Analysis_vanillapapaya.슬라이드20.jpg.)
+![슬라이드20](http://vanillapapaya.github.io/assets/img/projects/proj-ramen/Ramen_Market_Analysis_vanillapapaya/슬라이드20.jpg.)
    
 
 [pdflink]: http://vanillapapaya.github.io/assets/img/projects/proj-ramen/Ramen_Market_Analysis_vanillapapaya.pdf
