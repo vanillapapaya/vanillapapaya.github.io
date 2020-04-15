@@ -2,10 +2,11 @@
 layout: post
 title: '라면 시장 분석'   
 ---
-   
-   
-> Tools Used : Pandas, Seaborn in Python, Microsoft Excel, Microsoft Powerpoint   
-   
+    
+    
+***
+Tools Used : Pandas, Seaborn in Python, Microsoft Excel, Microsoft Powerpoint   
+***
 
 17년도부터 19년도까지 라면 시장의 매출 데이터를 보고 시장 상황과 특정 회사의 성과에 대해 분석하였습니다.   
    
@@ -17,8 +18,12 @@ title: '라면 시장 분석'
    
 그리고 특정 채널에서 운영중인 제품을 조사하여, 선택한 제조사의 매출 상승을 위해 필요한 요소를 분석했습니다.   
    
+   
+   
 라면 시장 분석 보고서 pdf 파일 [다운로드][pdflink]
    
+  
+
 ![슬라이드1](http://vanillapapaya.github.io/assets/img/projects/proj-ramen/Ramen_Market_Analysis_vanillapapaya/슬라이드3.JPG)   
    
 ![슬라이드9](http://vanillapapaya.github.io/assets/img/projects/proj-ramen/Ramen_Market_Analysis_vanillapapaya/슬라이드9.JPG)
