@@ -3,9 +3,10 @@ layout: post
 title: '코로나바이러스감염증-19 국내현황'   
 ---
    
-***
-Tools Used : Pandas in Python, MySQL (Server OS : Linux), Tableau   
-***   
+* * *
+*Tools Used : Pandas in Python, MySQL (Server OS : Linux), Tableau*   
+
+* * *   
    
 [질병관리본부](http://www.cdc.go.kr/cdc)의 정례 브리핑 자료를 이용,   
    

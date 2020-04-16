@@ -4,9 +4,10 @@ title: '라면 시장 분석'
 ---
     
     
-***
-Tools Used : Pandas, Seaborn in Python, Microsoft Excel, Microsoft Powerpoint   
-***
+* * *
+*Tools Used : Pandas, Seaborn in Python, Microsoft Excel, Microsoft Powerpoint*  
+
+* * *
 
 17년도부터 19년도까지 라면 시장의 매출 데이터를 보고 시장 상황과 특정 회사의 성과에 대해 분석하였습니다.   
    
