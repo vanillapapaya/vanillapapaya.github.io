@@ -3,7 +3,7 @@
 
 menu:
 - {name: 'Projects', url: ''}
-#- {name: 'Blog', url: 'pages/code.html'}
+- {name: 'Blog', url: 'pages/code.html'}
 #- {name: 'Diary', url: 'pages/diary.html'}
 - {name: 'About', url: 'pages/about.html'}
 #- {name: 'Contact', url: 'pages/contact.html'}
@@ -70,7 +70,7 @@ social:
 #- {icon: 'twitter', link: '#'}
 - {icon: 'instagram', link: 'https://www.instagram.com/vanillapapaya'}
 - {icon: 'github', link: 'https://github.com/vanillapapaya'}
-#- {icon: 'linkedin', link: '#'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/vanillapapaya'}
 #- {icon: 'envelope', link: 'mailto:ilovedebug@naver.com'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
